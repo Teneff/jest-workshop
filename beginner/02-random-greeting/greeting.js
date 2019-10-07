@@ -8,7 +8,7 @@ export default function greeting(name = 'Guest') {
     {
       phrase: `Good afternoon, ${name}!`,
       from: 13,
-      to: 17,
+      to: 15,
     },
     {
       phrase: `Good evening, ${name}!`,

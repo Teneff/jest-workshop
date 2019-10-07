@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`random greeting at 0:00 with given name should greet the user 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 0:00 without given name should greet the guest 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 1:00 with given name should greet the user 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 1:00 without given name should greet the guest 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 2:00 with given name should greet the user 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 2:00 without given name should greet the guest 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 3:00 with given name should greet the user 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 3:00 without given name should greet the guest 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 4:00 with given name should greet the user 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 4:00 without given name should greet the guest 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 5:00 with given name should greet the user 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 5:00 without given name should greet the guest 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 6:00 with given name should greet the user 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 6:00 without given name should greet the guest 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 7:00 with given name should greet the user 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 7:00 without given name should greet the guest 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 8:00 with given name should greet the user 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 8:00 without given name should greet the guest 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 9:00 with given name should greet the user 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 9:00 without given name should greet the guest 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 10:00 with given name should greet the user 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 10:00 without given name should greet the guest 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 11:00 with given name should greet the user 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 11:00 without given name should greet the guest 1`] = `"Good morning, Guest!"`;
+
+exports[`random greeting at 12:00 with given name should greet the user 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 12:00 without given name should greet the guest 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 13:00 with given name should greet the user 1`] = `"Good afternoon, Guest!"`;
+
+exports[`random greeting at 13:00 without given name should greet the guest 1`] = `"Good afternoon, Guest!"`;
+
+exports[`random greeting at 14:00 with given name should greet the user 1`] = `"Good afternoon, Guest!"`;
+
+exports[`random greeting at 14:00 without given name should greet the guest 1`] = `"Good afternoon, Guest!"`;
+
+exports[`random greeting at 15:00 with given name should greet the user 1`] = `"Good afternoon, Guest!"`;
+
+exports[`random greeting at 15:00 without given name should greet the guest 1`] = `"Good afternoon, Guest!"`;
+
+exports[`random greeting at 16:00 with given name should greet the user 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 16:00 without given name should greet the guest 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 17:00 with given name should greet the user 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 17:00 without given name should greet the guest 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 18:00 with given name should greet the user 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 18:00 without given name should greet the guest 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 19:00 with given name should greet the user 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 19:00 without given name should greet the guest 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 20:00 with given name should greet the user 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 20:00 without given name should greet the guest 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 21:00 with given name should greet the user 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 21:00 without given name should greet the guest 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 22:00 with given name should greet the user 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 22:00 without given name should greet the guest 1`] = `"Good evening, Guest!"`;
+
+exports[`random greeting at 23:00 with given name should greet the user 1`] = `"Hello, Guest!"`;
+
+exports[`random greeting at 23:00 without given name should greet the guest 1`] = `"Hello, Guest!"`;

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Assertions .toMatchSnapshot can be used to automatically craete snapshots and match the result 1`] = `
+Object {
+  "hello": Object {
+    "world": Object {
+      "here": Object {
+        "is": Object {
+          "a": Object {
+            "number": 1123,
+          },
+        },
+      },
+    },
+  },
+}
+`;
