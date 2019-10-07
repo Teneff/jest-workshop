@@ -1,0 +1,32 @@
+{
+  "name": "jest-workshop",
+  "version": "1.0.0",
+  "description": "Jest workshop prerequisite",
+  "main": "index.js",
+  "repository": "https://github.com/Teneff/jest-workshop.git",
+  "author": "Stefan Teneff <st.teneff@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@types/jest": "^24.0.21",
+    "babel-jest": "^24.9.0",
+    "codecov": "^3.6.1",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "test": "jest",
+    "report-codecov": "codecov"
+  },
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
