@@ -2,29 +2,36 @@
 
 ## Topics
 
-  - [CLI](#cli)
-  - [Setup and Teardown](#setup-and-teardown)
-  - [Assertions](#assertions)
-  - [Mock functions](#mock-functions)
-  - [Debuggin with VSCode](#debuging-with-vscode)
+- [CLI](#cli)
+- [Setup and Teardown](#setup-and-teardown)
+- [Assertions](#assertions)
+- [Mock functions](#mock-functions)
+- [Debuggin with VSCode](#debuging-with-vscode)
+
+## Tasks
+
+- [Beginner](./beginner)
+
+- [Advanced](./advanced)
 
 ## CLI
 
-  - `--help`
-  - `--verbose`
-  - `--coverage`
-  - `--onlyChanged, -o`
-  - `--watch`
-  - `--watchAll`
-  - interactive menu
+- `--help`
+- `--verbose`
+- `--coverage`
+- `--onlyChanged, -o`
+- `--watch`
+- `--watchAll`
+- interactive menu
 
 ## Setup and Teardown
-  - describe 
-  - it / test
-  - beforeAll / afterAll
-  - beforeEach / afterEach
-  - async / await
-  - only / skip / xit
+
+- describe
+- it / test
+- beforeAll / afterAll
+- beforeEach / afterEach
+- async / await
+- only / skip / xit
 
 ## Assertions
 
@@ -64,10 +71,9 @@
 
 ## Debuging with VSCode
 
-  - running the tests with VSCode debugger
-  - only the current folder
-  - only changed since last commit
-
+- running the tests with VSCode debugger
+- only the current folder
+- only changed since last commit
 
 [jest]: https://jestjs.io
 [expect]: https://jestjs.io/docs/en/expect
