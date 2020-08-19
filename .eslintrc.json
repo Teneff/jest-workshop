@@ -28,13 +28,11 @@
       }
     },
     {
-      "files": ["**/*.spec.js", "**/__mocks__/**"],
-      "env": {
-        "jest": true
-      }
-    },
-    {
-      "files": ["**/__mocks__/*.js"],
+      "files": [
+        "**/__mocks__/**/*.[jt]s?(x)",
+        "**/__tests__/**/*.[jt]s?(x)",
+        "**/?(*.)+(spec|test).[tj]s?(x)"
+      ],
       "env": {
         "jest": true
       }
