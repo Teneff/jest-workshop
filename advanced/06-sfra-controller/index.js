@@ -1,3 +1,5 @@
+/* eslint-disable import/extensions */
+/* eslint-disable import/no-unresolved */
 const server = require('server');
 
 const csrfProtection = require('*/cartridge/scripts/middleware/csrf');

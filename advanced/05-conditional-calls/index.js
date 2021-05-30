@@ -1,4 +1,3 @@
-
 export default (callback, savedAmf, amf, amf2, preferencesConsent2) => {
   const preferencesSubmitErrorShow = () => {
     callback('show');
